@@ -1,0 +1,21 @@
+.main {
+  font-family: "Lato", "Arial", sans-serif;
+}
+
+p {
+  font-size: 100%;
+  color: #888;
+}
+
+#link {
+  color: #ff8c00;
+}
+
+#link:hover {
+  color: whitesmoke !important;
+}
+
+#onHoverOrange:hover {
+  background-color: #ff8c00;
+  border: none;
+}

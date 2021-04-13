@@ -1,0 +1,23 @@
+.num {
+  font-size: 400%;
+
+  color: black;
+}
+
+.all {
+}
+
+.store {
+  font-size: 300%;
+}
+
+.step {
+}
+
+.p {
+  font-size: 200%;
+  padding-bottom: 5%;
+  width: 40vw;
+
+  padding-left: 5%;
+}
